@@ -1,0 +1,361 @@
+student_id,full_name,assessment_name,raw_score,category,gb1_grade
+S001,Student_1,11.1,,Other,U
+S002,Student_2,11.1,1,Other,G
+S003,Student_3,11.1,2,Other,G
+S004,Student_4,11.1,3,Other,G
+S005,Student_5,11.1,3,Other,G
+S006,Student_6,11.1,4,Other,G
+S007,Student_7,11.1,5,Other,G
+S008,Student_8,11.1,6,Other,G
+S009,Student_9,11.1,7,Other,G
+S010,Student_10,11.1,8,Other,G
+S011,Student_11,11.1,,Other,U
+S012,Student_12,11.1,,Other,U
+S013,Student_13,11.1,,Other,U
+S014,Student_14,11.1,,Other,U
+S015,Student_15,11.1,,Other,U
+S001,Student_1,Riverside,,Other,U
+S002,Student_2,Riverside,,Other,U
+S003,Student_3,Riverside,,Other,U
+S004,Student_4,Riverside,,Other,U
+S005,Student_5,Riverside,,Other,U
+S006,Student_6,Riverside,,Other,U
+S007,Student_7,Riverside,,Other,U
+S008,Student_8,Riverside,,Other,U
+S009,Student_9,Riverside,,Other,U
+S010,Student_10,Riverside,,Other,U
+S011,Student_11,Riverside,,Other,U
+S012,Student_12,Riverside,,Other,U
+S013,Student_13,Riverside,,Other,U
+S014,Student_14,Riverside,,Other,U
+S015,Student_15,Riverside,,Other,U
+S001,Student_1,Chapter 1 Test,10,Other,G
+S002,Student_2,Chapter 1 Test,6,Other,G
+S003,Student_3,Chapter 1 Test,9,Other,G
+S004,Student_4,Chapter 1 Test,8,Other,G
+S005,Student_5,Chapter 1 Test,10,Other,G
+S006,Student_6,Chapter 1 Test,10,Other,G
+S007,Student_7,Chapter 1 Test,10,Other,G
+S008,Student_8,Chapter 1 Test,9,Other,G
+S009,Student_9,Chapter 1 Test,7,Other,G
+S010,Student_10,Chapter 1 Test,7,Other,G
+S011,Student_11,Chapter 1 Test,,Other,U
+S012,Student_12,Chapter 1 Test,,Other,U
+S013,Student_13,Chapter 1 Test,,Other,U
+S014,Student_14,Chapter 1 Test,,Other,U
+S015,Student_15,Chapter 1 Test,,Other,U
+S001,Student_1,Insects Micrograph,12,Formative,G
+S002,Student_2,Insects Micrograph,12,Formative,G
+S003,Student_3,Insects Micrograph,12,Formative,G
+S004,Student_4,Insects Micrograph,6,Formative,G
+S005,Student_5,Insects Micrograph,8,Formative,G
+S006,Student_6,Insects Micrograph,1,Formative,G
+S007,Student_7,Insects Micrograph,12,Formative,G
+S008,Student_8,Insects Micrograph,6,Formative,G
+S009,Student_9,Insects Micrograph,6,Formative,G
+S010,Student_10,Insects Micrograph,12,Formative,G
+S011,Student_11,Insects Micrograph,,Formative,U
+S012,Student_12,Insects Micrograph,,Formative,U
+S013,Student_13,Insects Micrograph,,Formative,U
+S014,Student_14,Insects Micrograph,,Formative,U
+S015,Student_15,Insects Micrograph,,Formative,U
+S001,Student_1,Vmax,6,Other,G
+S002,Student_2,Vmax,2,Other,G
+S003,Student_3,Vmax,5,Other,G
+S004,Student_4,Vmax,5,Other,G
+S005,Student_5,Vmax,6,Other,G
+S006,Student_6,Vmax,2,Other,G
+S007,Student_7,Vmax,6,Other,G
+S008,Student_8,Vmax,6,Other,G
+S009,Student_9,Vmax,2,Other,G
+S010,Student_10,Vmax,6,Other,G
+S011,Student_11,Vmax,,Other,U
+S012,Student_12,Vmax,,Other,U
+S013,Student_13,Vmax,,Other,U
+S014,Student_14,Vmax,,Other,U
+S015,Student_15,Vmax,,Other,U
+S001,Student_1,Micrographs Book,54,Formative,C+
+S002,Student_2,Micrographs Book,52,Formative,C
+S003,Student_3,Micrographs Book,54,Formative,C+
+S004,Student_4,Micrographs Book,54,Formative,C+
+S005,Student_5,Micrographs Book,52,Formative,C
+S006,Student_6,Micrographs Book,53,Formative,C
+S007,Student_7,Micrographs Book,54,Formative,C+
+S008,Student_8,Micrographs Book,54,Formative,C+
+S009,Student_9,Micrographs Book,45,Formative,D+
+S010,Student_10,Micrographs Book,54,Formative,C+
+S011,Student_11,Micrographs Book,,Formative,U
+S012,Student_12,Micrographs Book,,Formative,U
+S013,Student_13,Micrographs Book,,Formative,U
+S014,Student_14,Micrographs Book,,Formative,U
+S015,Student_15,Micrographs Book,,Formative,U
+S001,Student_1,Midterm Exam,20,Midterm,G+
+S002,Student_2,Midterm Exam,14,Midterm,G
+S003,Student_3,Midterm Exam,13,Midterm,G
+S004,Student_4,Midterm Exam,16,Midterm,G+
+S005,Student_5,Midterm Exam,15,Midterm,G+
+S006,Student_6,Midterm Exam,17,Midterm,G+
+S007,Student_7,Midterm Exam,6,Midterm,G
+S008,Student_8,Midterm Exam,12,Midterm,G
+S009,Student_9,Midterm Exam,10,Midterm,G
+S010,Student_10,Midterm Exam,11,Midterm,G
+S011,Student_11,Midterm Exam,,Midterm,U
+S012,Student_12,Midterm Exam,,Midterm,U
+S013,Student_13,Midterm Exam,,Midterm,U
+S014,Student_14,Midterm Exam,,Midterm,U
+S015,Student_15,Midterm Exam,,Midterm,U
+S001,Student_1,Nuckeic Acid Revision,54,Formative,C+
+S002,Student_2,Nuckeic Acid Revision,42,Formative,D
+S003,Student_3,Nuckeic Acid Revision,45,Formative,D+
+S004,Student_4,Nuckeic Acid Revision,47,Formative,D+
+S005,Student_5,Nuckeic Acid Revision,40,Formative,E+
+S006,Student_6,Nuckeic Acid Revision,42,Formative,D
+S007,Student_7,Nuckeic Acid Revision,44,Formative,D
+S008,Student_8,Nuckeic Acid Revision,40,Formative,E+
+S009,Student_9,Nuckeic Acid Revision,41,Formative,E+
+S010,Student_10,Nuckeic Acid Revision,42,Formative,D
+S011,Student_11,Nuckeic Acid Revision,,Formative,U
+S012,Student_12,Nuckeic Acid Revision,,Formative,U
+S013,Student_13,Nuckeic Acid Revision,,Formative,U
+S014,Student_14,Nuckeic Acid Revision,,Formative,U
+S015,Student_15,Nuckeic Acid Revision,,Formative,U
+S001,Student_1,1A,10,Other,G
+S002,Student_2,1A,8,Other,G
+S003,Student_3,1A,10,Other,G
+S004,Student_4,1A,10,Other,G
+S005,Student_5,1A,10,Other,G
+S006,Student_6,1A,10,Other,G
+S007,Student_7,1A,10,Other,G
+S008,Student_8,1A,0,Other,U
+S009,Student_9,1A,0,Other,U
+S010,Student_10,1A,0,Other,U
+S011,Student_11,1A,,Other,U
+S012,Student_12,1A,,Other,U
+S013,Student_13,1A,,Other,U
+S014,Student_14,1A,,Other,U
+S015,Student_15,1A,,Other,U
+S001,Student_1,2A,10,Other,G
+S002,Student_2,2A,10,Other,G
+S003,Student_3,2A,10,Other,G
+S004,Student_4,2A,10,Other,G
+S005,Student_5,2A,10,Other,G
+S006,Student_6,2A,10,Other,G
+S007,Student_7,2A,10,Other,G
+S008,Student_8,2A,10,Other,G
+S009,Student_9,2A,10,Other,G
+S010,Student_10,2A,8,Other,G
+S011,Student_11,2A,,Other,U
+S012,Student_12,2A,,Other,U
+S013,Student_13,2A,,Other,U
+S014,Student_14,2A,,Other,U
+S015,Student_15,2A,,Other,U
+S001,Student_1,3A,10,Other,G
+S002,Student_2,3A,10,Other,G
+S003,Student_3,3A,10,Other,G
+S004,Student_4,3A,10,Other,G
+S005,Student_5,3A,10,Other,G
+S006,Student_6,3A,10,Other,G
+S007,Student_7,3A,10,Other,G
+S008,Student_8,3A,10,Other,G
+S009,Student_9,3A,10,Other,G
+S010,Student_10,3A,0,Other,U
+S011,Student_11,3A,,Other,U
+S012,Student_12,3A,,Other,U
+S013,Student_13,3A,,Other,U
+S014,Student_14,3A,,Other,U
+S015,Student_15,3A,,Other,U
+S001,Student_1,4A,10,Other,G
+S002,Student_2,4A,8,Other,G
+S003,Student_3,4A,10,Other,G
+S004,Student_4,4A,10,Other,G
+S005,Student_5,4A,10,Other,G
+S006,Student_6,4A,10,Other,G
+S007,Student_7,4A,10,Other,G
+S008,Student_8,4A,8,Other,G
+S009,Student_9,4A,8,Other,G
+S010,Student_10,4A,4,Other,G
+S011,Student_11,4A,,Other,U
+S012,Student_12,4A,,Other,U
+S013,Student_13,4A,,Other,U
+S014,Student_14,4A,,Other,U
+S015,Student_15,4A,,Other,U
+S001,Student_1,4B,10,Other,G
+S002,Student_2,4B,10,Other,G
+S003,Student_3,4B,8,Other,G
+S004,Student_4,4B,8,Other,G
+S005,Student_5,4B,10,Other,G
+S006,Student_6,4B,10,Other,G
+S007,Student_7,4B,10,Other,G
+S008,Student_8,4B,8,Other,G
+S009,Student_9,4B,8,Other,G
+S010,Student_10,4B,8,Other,G
+S011,Student_11,4B,,Other,U
+S012,Student_12,4B,,Other,U
+S013,Student_13,4B,,Other,U
+S014,Student_14,4B,,Other,U
+S015,Student_15,4B,,Other,U
+S001,Student_1,5A,10,Other,G
+S002,Student_2,5A,10,Other,G
+S003,Student_3,5A,8,Other,G
+S004,Student_4,5A,8,Other,G
+S005,Student_5,5A,10,Other,G
+S006,Student_6,5A,10,Other,G
+S007,Student_7,5A,10,Other,G
+S008,Student_8,5A,10,Other,G
+S009,Student_9,5A,10,Other,G
+S010,Student_10,5A,8,Other,G
+S011,Student_11,5A,,Other,U
+S012,Student_12,5A,,Other,U
+S013,Student_13,5A,,Other,U
+S014,Student_14,5A,,Other,U
+S015,Student_15,5A,,Other,U
+S001,Student_1,6A,10,Other,G
+S002,Student_2,6A,10,Other,G
+S003,Student_3,6A,10,Other,G
+S004,Student_4,6A,10,Other,G
+S005,Student_5,6A,10,Other,G
+S006,Student_6,6A,10,Other,G
+S007,Student_7,6A,10,Other,G
+S008,Student_8,6A,10,Other,G
+S009,Student_9,6A,10,Other,G
+S010,Student_10,6A,10,Other,G
+S011,Student_11,6A,,Other,U
+S012,Student_12,6A,,Other,U
+S013,Student_13,6A,,Other,U
+S014,Student_14,6A,,Other,U
+S015,Student_15,6A,,Other,U
+S001,Student_1,6B,10,Other,G
+S002,Student_2,6B,8,Other,G
+S003,Student_3,6B,8,Other,G
+S004,Student_4,6B,8,Other,G
+S005,Student_5,6B,10,Other,G
+S006,Student_6,6B,10,Other,G
+S007,Student_7,6B,8,Other,G
+S008,Student_8,6B,10,Other,G
+S009,Student_9,6B,10,Other,G
+S010,Student_10,6B,10,Other,G
+S011,Student_11,6B,,Other,U
+S012,Student_12,6B,,Other,U
+S013,Student_13,6B,,Other,U
+S014,Student_14,6B,,Other,U
+S015,Student_15,6B,,Other,U
+S001,Student_1,6C,10,Other,G
+S002,Student_2,6C,10,Other,G
+S003,Student_3,6C,0,Other,U
+S004,Student_4,6C,0,Other,U
+S005,Student_5,6C,10,Other,G
+S006,Student_6,6C,10,Other,G
+S007,Student_7,6C,10,Other,G
+S008,Student_8,6C,10,Other,G
+S009,Student_9,6C,10,Other,G
+S010,Student_10,6C,10,Other,G
+S011,Student_11,6C,,Other,U
+S012,Student_12,6C,,Other,U
+S013,Student_13,6C,,Other,U
+S014,Student_14,6C,,Other,U
+S015,Student_15,6C,,Other,U
+S001,Student_1,Ppt,100,Formative,A*
+S002,Student_2,Ppt,93,Formative,A*
+S003,Student_3,Ppt,82,Formative,A*
+S004,Student_4,Ppt,82,Formative,A*
+S005,Student_5,Ppt,100,Formative,A*
+S006,Student_6,Ppt,100,Formative,A*
+S007,Student_7,Ppt,98,Formative,A*
+S008,Student_8,Ppt,84,Formative,A*
+S009,Student_9,Ppt,84,Formative,A*
+S010,Student_10,Ppt,64,Formative,B+
+S011,Student_11,Ppt,,Formative,U
+S012,Student_12,Ppt,,Formative,U
+S013,Student_13,Ppt,,Formative,U
+S014,Student_14,Ppt,,Formative,U
+S015,Student_15,Ppt,,Formative,U
+S001,Student_1,10%,10,Other,G
+S002,Student_2,10%,9,Other,G
+S003,Student_3,10%,8,Other,G
+S004,Student_4,10%,8,Other,G
+S005,Student_5,10%,10,Other,G
+S006,Student_6,10%,10,Other,G
+S007,Student_7,10%,10,Other,G
+S008,Student_8,10%,8,Other,G
+S009,Student_9,10%,8,Other,G
+S010,Student_10,10%,6,Other,G
+S011,Student_11,10%,,Other,U
+S012,Student_12,10%,,Other,U
+S013,Student_13,10%,,Other,U
+S014,Student_14,10%,,Other,U
+S015,Student_15,10%,,Other,U
+S001,Student_1,Eos 1 Exam,46,Summative,D+
+S002,Student_2,Eos 1 Exam,34,Summative,F+
+S003,Student_3,Eos 1 Exam,35,Summative,F+
+S004,Student_4,Eos 1 Exam,32,Summative,F+
+S005,Student_5,Eos 1 Exam,41,Summative,E+
+S006,Student_6,Eos 1 Exam,43,Summative,D
+S007,Student_7,Eos 1 Exam,23,Summative,G+
+S008,Student_8,Eos 1 Exam,19,Summative,G+
+S009,Student_9,Eos 1 Exam,15,Summative,G+
+S010,Student_10,Eos 1 Exam,31,Summative,F
+S011,Student_11,Eos 1 Exam,,Summative,U
+S012,Student_12,Eos 1 Exam,,Summative,U
+S013,Student_13,Eos 1 Exam,,Summative,U
+S014,Student_14,Eos 1 Exam,,Summative,U
+S015,Student_15,Eos 1 Exam,,Summative,U
+S001,Student_1,%,100,Other,A*
+S002,Student_2,%,74,Other,A+
+S003,Student_3,%,76,Other,A+
+S004,Student_4,%,70,Other,A
+S005,Student_5,%,89,Other,A*
+S006,Student_6,%,93,Other,A*
+S007,Student_7,%,50,Other,C
+S008,Student_8,%,41,Other,E+
+S009,Student_9,%,33,Other,F+
+S010,Student_10,%,67,Other,B+
+S011,Student_11,%,,Other,U
+S012,Student_12,%,,Other,U
+S013,Student_13,%,,Other,U
+S014,Student_14,%,,Other,U
+S015,Student_15,%,,Other,U
+S001,Student_1,Prectical Exam,15,Other,G+
+S002,Student_2,Prectical Exam,15,Other,G+
+S003,Student_3,Prectical Exam,15,Other,G+
+S004,Student_4,Prectical Exam,15,Other,G+
+S005,Student_5,Prectical Exam,15,Other,G+
+S006,Student_6,Prectical Exam,15,Other,G+
+S007,Student_7,Prectical Exam,15,Other,G+
+S008,Student_8,Prectical Exam,15,Other,G+
+S009,Student_9,Prectical Exam,15,Other,G+
+S010,Student_10,Prectical Exam,15,Other,G+
+S011,Student_11,Prectical Exam,,Other,U
+S012,Student_12,Prectical Exam,,Other,U
+S013,Student_13,Prectical Exam,,Other,U
+S014,Student_14,Prectical Exam,,Other,U
+S015,Student_15,Prectical Exam,,Other,U
+S001,Student_1,0.10%,100,Other,A*
+S002,Student_2,0.10%,100,Other,A*
+S003,Student_3,0.10%,100,Other,A*
+S004,Student_4,0.10%,100,Other,A*
+S005,Student_5,0.10%,100,Other,A*
+S006,Student_6,0.10%,100,Other,A*
+S007,Student_7,0.10%,100,Other,A*
+S008,Student_8,0.10%,100,Other,A*
+S009,Student_9,0.10%,100,Other,A*
+S010,Student_10,0.10%,100,Other,A*
+S011,Student_11,0.10%,,Other,U
+S012,Student_12,0.10%,,Other,U
+S013,Student_13,0.10%,,Other,U
+S014,Student_14,0.10%,,Other,U
+S015,Student_15,0.10%,,Other,U
+S001,Student_1,End Of Sem Grade,100,Other,A*
+S002,Student_2,End Of Sem Grade,80,Other,A*
+S003,Student_3,End Of Sem Grade,82,Other,A*
+S004,Student_4,End Of Sem Grade,77,Other,A+
+S005,Student_5,End Of Sem Grade,92,Other,A*
+S006,Student_6,End Of Sem Grade,95,Other,A*
+S007,Student_7,End Of Sem Grade,62,Other,B
+S008,Student_8,End Of Sem Grade,56,Other,C+
+S009,Student_9,End Of Sem Grade,49,Other,C
+S010,Student_10,End Of Sem Grade,75,Other,A+
+S011,Student_11,End Of Sem Grade,,Other,U
+S012,Student_12,End Of Sem Grade,,Other,U
+S013,Student_13,End Of Sem Grade,,Other,U
+S014,Student_14,End Of Sem Grade,,Other,U
+S015,Student_15,End Of Sem Grade,,Other,U
